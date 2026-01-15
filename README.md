@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tejas Pocchi
 
----
+
 
 ![GitHub Banner](Banner.png)
 
@@ -49,9 +49,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn URL]  
-- 📧 Email: your.email@example.com  
-
+- 💼 LinkedIn: www.linkedin.com/in/tejas-pocchi-b80a13210  
+- 📧 Email: tejaspocchi@gmail.com
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*  
