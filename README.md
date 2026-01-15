@@ -1,18 +1,58 @@
-## Hi there, this is Tejas 👋
+# Hi 👋, I'm Tejas Pocchi
+
+---
 
 ![GitHub Banner](Banner.png)
 
-<!--
-**tejaspocchi-bit/tejaspocchi-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst  
+📊 Turning raw data into meaningful insights  
+📈 Seek Discomfort | Learn • Analyze • Grow
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Graduate & Data Analytics fresher  
+- 🔍 Strong interest in data cleaning, EDA & visualization  
+- 🛠 Hands-on experience through projects & virtual internships  
+- 🌱 Continuously improving analytics & problem-solving skills  
+
+---
+
+## 🧰 Skills & Tools
+
+### 📊 Data Analysis & Statistics
+- 📈 Exploratory Data Analysis (EDA)  
+- 📐 Statistics (Descriptive, Inferential)  
+- 🧹 Data Cleaning & Preprocessing  
+
+### 💻 Programming & Databases
+- 🐍 Python  
+- 🗄️ SQL (PostgreSQL, Oracle)  
+
+### 📊 Visualization Tools
+- 📊 Power BI  
+- 📉 Matplotlib  
+- 📈 Seaborn  
+
+### 📋 Productivity Tools
+- 📑 Microsoft Excel  
+
+---
+
+## 📂 Projects
+- 📊 Data Analysis & EDA on real datasets  
+- 📈 Interactive dashboards using Power BI  
+- 🧹 Data cleaning & insight generation  
+
+*(Explore my repositories below 👇)*
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: [Your LinkedIn URL]  
+- 📧 Email: your.email@example.com  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*  
+
