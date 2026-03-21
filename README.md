@@ -45,6 +45,7 @@
 - 🧹 Data cleaning & insight generation  
 
 *(Explore my repositories below 👇)*
+https://github.com/tejaspocchi-bit?tab=repositories
 
 ---
 
