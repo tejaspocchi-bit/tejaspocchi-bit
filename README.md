@@ -4,7 +4,7 @@
 
 ![GitHub Banner](Banner.png)
 
-🚀 Aspiring Data Analyst  
+🚀 Data Analyst  
 📊 Turning raw data into meaningful insights  
 📈 Seek Discomfort | Learn • Analyze • Grow
 
